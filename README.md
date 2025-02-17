@@ -6,8 +6,7 @@ Data Engineering Take-Home Exercise
 
 2- Install SQLite if necessary
 
-3- OPTIONAL:
-Execute pipedb.py (python required) to create database, otherwise the existing DB will be used, skip to STEP 4
+3- Execute pipedb.py (python required) to create database
 
 4- Open pursuit.db
 
